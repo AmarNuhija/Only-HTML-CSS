@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My first web page</title>
+    <style>
+      img {
+        width: 200px;
+        border-radius: 100px;
+        float: left;
+        margin-right: 50px;
+      }
+
+      .username {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="images/Screenshot 2024-04-03 135812.png" />
+    <p class="username">This is Alan</p>
+    <p>I love Alan</p>
+  </body>
+
+  <p>
+    <img src="images\Screenshot 2024-03-27 141958.png" />
+    <p class="username">This is David</p>
+    <p>I love David</p>
+  </p>
+
+<style>
+p {
+   width: 2000px;
+   border-radius: 100px;
+   float: left;
+   margin-right: 50px;
+   font-size: 20px;
+  }
+</style>
+
+<p>
+<img src="images\Screenshot 2024-02-19 101351.png" />
+<p class="username">This is Sebi</p>
+<p>I hate Sebi</p>
+</p>
+
+<p>
+  <img src="images\image.png" />
+  <p class="username">This is Antoni</p>
+  <p>I am scared of Antoni</p>
+  </p>
+</html>
