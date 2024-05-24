@@ -21,10 +21,10 @@ Heute habe ich wieder meine Kopfhörer mitgenommen, um das Video über HTML weit
 
 ## Für den 24.5.2024
 
-- [ ] HTML und CSS erste Website
-- [ ] In den neuen Modulen weiter arbeiten
-- [ ] C# Codes reflektierend beobachten
-- [ ] Solar System HTML
+- [x] HTML und CSS erste Website
+- [x] In den neuen Modulen weiter arbeiten
+- [x] C# Codes reflektierend beobachten
+- [x] Solar System HTML
 
 
 # 24.5.2024
