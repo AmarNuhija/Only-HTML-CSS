@@ -24,5 +24,20 @@ Heute habe ich wieder meine Kopfhörer mitgenommen, um das Video über HTML weit
 - [ ] HTML und CSS erste Website
 - [ ] In den neuen Modulen weiter arbeiten
 - [ ] C# Codes reflektierend beobachten
-- [ ] DropDownListe in HTML und CSS
+- [ ] Solar System HTML
+
+
+# 24.5.2024
+## Leit-Satz
+
+An diesem Tag habe ich wie üblich weiter an meinem HTML-Code gearbeitet. Wie gewohnt habe ich meinen Code dann auf Github hochgeladen. Ich habe mir vorgestellt, dass sich ganz einfach verschiedene Objekte im All befinden und um die Sonne kreisen, was mir persönlich wirklich gut gelungen ist. Gelegentlich musste ich mit den Zahlen experimentieren, besonders um die genaue Rotation des Mars zu erreichen, da dies anfangs nicht so gut funktioniert hat. Am Ende bin ich jedoch ziemlich zufrieden mit dem, was ich erreicht habe. Ich habe die Arbeitspakete vom letzten Mal angepasst. Die Schwierigkeit bestand hauptsächlich darin, die Planeten so präzise kreisen zu lassen, dass sie sich auch genau um die Sonne bewegen, bzw. dass sich der Mond genau um die Erde bewegt.(106 Wörter)
+
+
+## Für den 31.5.2024
+
+- [ ] DropDownListe erstellen
+- [ ] Modul 293 und 122 arbeiten
+- [ ] Login Bar with password and email
+- [ ] (Kleiner Teil lernen für Kanti)
+
 
