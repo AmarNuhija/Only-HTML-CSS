@@ -40,4 +40,15 @@ An diesem Tag habe ich wie üblich weiter an meinem HTML-Code gearbeitet. Wie ge
 - [ ] Login Bar with password and email
 - [ ] (Kleiner Teil lernen für Kanti)
 
+## Testfälle
+
+| Testfall-Nummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
+| --------------- | ------------ | ------- | ------- | -------- |
+| 1 | Planet sehen | Link öffnen | Planet Sonne taucht auf | Ja |
+| 2 | Planet sehen | Link öffnen | Planet Erde taucht auf | Ja | 
+| 4 | Planet dreht sich| Link öffnen | Erde dreht sich um die Sonne | Ja |
+| 5 | Planet dreht sich | Link öffnen | Der Mond dreht sich um die Erde | Ja |
+
+
+
 
