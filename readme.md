@@ -35,7 +35,7 @@ An diesem Tag habe ich wie üblich weiter an meinem HTML-Code gearbeitet. Wie ge
 
 ## Für den 31.5.2024
 
-- [ ] DropDownListe erstellen
+- [ ] Button-Hover erstellen
 - [ ] Modul 293 und 122 arbeiten
 - [ ] Login Bar with password and email
 - [ ] (Kleiner Teil lernen für Kanti)
