@@ -49,6 +49,16 @@ An diesem Tag habe ich wie üblich weiter an meinem HTML-Code gearbeitet. Wie ge
 | 4 | Planet dreht sich| Link öffnen | Erde dreht sich um die Sonne | Ja |
 | 5 | Planet dreht sich | Link öffnen | Der Mond dreht sich um die Erde | Ja |
 
+# 31.5.2024
+## Leit-Satz
+
+Wieder einmal muss ich ein neues Update zu meinen Arbeitspaketen machen. Anstelle einer Dropdown-Liste habe ich einen Button-Hover-Effekt implementiert. Dies war ganz einfach. Normalerweise umfassen solche HTML- und CSS-Codes mehrere hundert Zeilen, aber bei diesem Button war das nicht der Fall – ganz im Gegenteil sogar. Trotzdem konnte ich erreichen, was ich wollte, und habe auch bereits mit der Login-Leiste und dem Passwortfeld begonnen. Davon werde ich zwei Versionen erstellen: eine ganz einfache und eine andere mit mehr Effekten und zusätzlichen Funktionen.(81 Wörter)
 
 
+## Für den 7.6.2024
+
+- [ ] Login Bar with password and email
+- [ ] Website für LB M293 anfangen
+- [ ] Powershell Befehle austoben
+- [ ] Rainbow Text Animation
 
