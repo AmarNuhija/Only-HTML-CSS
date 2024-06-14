@@ -83,4 +83,16 @@ An diesem Tag habe ich mich mehr darauf konzentriert, meine Website zu gestalten
 - [ ] Powershell Skript überarbeiten
 - [ ] PowerShell Dokumentation
 
+# 14.6.2024
+## Leit-Satz
+
+Heute habe ich wieder mit HTML begonnen und dabei direkt über zwei Arbeitspakete hinausgearbeitet. Dabei habe ich gleichzeitig ein bisschen dokumentiert, was gut gelaufen ist. PowerShell war in dieser Session wirklich nur ein kurzer Teil, da ich schon sehr weit bin und HTML echt anspruchsvoller ist. Was ich zu PowerShell gemacht habe, ist die Dokumentation. Letzte Woche ist mir dort ein großer Fehler unterlaufen. Ich arbeite an einer Automatisierung, um Dateien von Websites herunterzuladen, und dabei wurden aus Versehen gleichzeitig 499 Elemente verschoben, heruntergeladen usw. – besser gesagt, es war einfach nur ein Fehler. Trotz allem bin ich diese Woche in HTML viel weiter gekommen als letzte Woche. Ich konnte die Bilder besser positionieren und bessere Texte schreiben. (117 Wörter)
+
+
+
+
+
+
+
+
 
