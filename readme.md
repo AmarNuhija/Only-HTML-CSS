@@ -62,6 +62,15 @@ Wieder einmal muss ich ein neues Update zu meinen Arbeitspaketen machen. Anstell
 - [ ] Powershell Befehle austoben
 - [ ] Rainbow Text Animation
 
+## Testfälle
+
+| Testfall-Nummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt? |
+| --------------- | ------------ | ------- | ------- | -------- |
+| 1 |Button klicken | Geot Your Cakes | Weitere Seite öffnet sich | Ja |
+| 2 | Auf Home drücken | Drücken | Zurück auf die Homepage | Ja | 
+| 4 |Man vergrössert das Bild| Ctrl und Mausrad drehen | Die ganze Seite verschiebt sich mit | Ja |
+| 5 | About Button | Drücken auf About | Man kommt auf die About Seite | Nein |
+
 # 7.6.2024
 ## Leit-Satz
 
