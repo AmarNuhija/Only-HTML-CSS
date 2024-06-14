@@ -76,3 +76,11 @@ Wieder einmal muss ich ein neues Update zu meinen Arbeitspaketen machen. Anstell
 
 An diesem Tag habe ich mich mehr darauf konzentriert, meine Website zu gestalten: Das macht mir auch mehr Spaß. Außerdem habe ich die Login-Leiste (Animation) erstellt. Natürlich gelang mir das anfangs nicht alleine, sodass ich mir Videos gesucht habe, um es besser zu verstehen. Trotz all dem Hin und Her konnte ich einiges mitnehmen. Ich habe auch ein Video gefunden, das mir persönlich dabei geholfen hat, diverse Bilder korrekt in HTML aneinander zu reihen.(73 Wörter)
 
+## Für den 14.6.2024
+
+- [ ] Website dokumentieren
+- [ ] Website für LB M293 fortführen
+- [ ] Powershell Skript überarbeiten
+- [ ] PowerShell Dokumentation
+
+
