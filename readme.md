@@ -35,10 +35,10 @@ An diesem Tag habe ich wie üblich weiter an meinem HTML-Code gearbeitet. Wie ge
 
 ## Für den 31.5.2024
 
-- [ ] Button-Hover erstellen
-- [ ] Modul 293 und 122 arbeiten
-- [ ] Login Bar with password and email
-- [ ] (Kleiner Teil lernen für Kanti)
+- [x] Button-Hover erstellen
+- [x] Modul 293 und 122 arbeiten
+- [x] Login Bar with password and email
+- [x] (Kleiner Teil lernen für Kanti)
 
 ## Testfälle
 
@@ -57,9 +57,9 @@ Wieder einmal muss ich ein neues Update zu meinen Arbeitspaketen machen. Anstell
 
 ## Für den 7.6.2024
 
-- [ ] Login Bar with password and email
-- [ ] Website für LB M293 anfangen
-- [ ] Powershell Befehle austoben
+- [x] Login Bar with password and email
+- [x] Website für LB M293 anfangen
+- [x] Powershell Befehle austoben
 - [ ] Rainbow Text Animation
 
 ## Testfälle
@@ -78,10 +78,10 @@ An diesem Tag habe ich mich mehr darauf konzentriert, meine Website zu gestalten
 
 ## Für den 14.6.2024
 
-- [ ] Website dokumentieren
-- [ ] Website für LB M293 fortführen
+- [x] Website dokumentieren
+- [x] Website für LB M293 fortführen
 - [ ] Powershell Skript überarbeiten
-- [ ] PowerShell Dokumentation
+- [x] PowerShell Dokumentation
 
 # 14.6.2024
 ## Leit-Satz
