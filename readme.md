@@ -108,6 +108,11 @@ Heute habe ich wieder mit HTML begonnen und dabei direkt über zwei Arbeitspaket
 ![WebsiteAufzeichnungGIF](https://github.com/AmarNuhija/Lern-Periode-5/assets/142606791/902aebb3-f893-480b-b77b-d091dde33636)
 
 
+## Solar System (Nur Bilder)
+![image](https://github.com/AmarNuhija/Lern-Periode-5/assets/142606791/64a64ee4-461d-451b-96f7-6a91c4029d54)
+
+
+
 
 
 
