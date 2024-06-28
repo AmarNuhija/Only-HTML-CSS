@@ -90,10 +90,10 @@ Heute habe ich wieder mit HTML begonnen und dabei direkt über zwei Arbeitspaket
 
 ## Für den 21.6.2024
 
-- [ ] Website dokumentieren
-- [ ] Website für LB M293 fortführen
-- [ ] Powershell Skript überarbeiten
-- [ ] Interessante Feautures für meine Website einbauen
+- [x] Website dokumentieren
+- [x] Website für LB M293 fortführen
+- [x] Powershell Skript überarbeiten
+- [x] Interessante Feautures für meine Website einbauen
 
 
 
