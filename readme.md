@@ -139,6 +139,7 @@ Die nächsten großen Programmierthemen waren dann SQL, was eher meinen Interess
 Am Ende gab es zwei Programmiersprachen, die mir am meisten Spaß gemacht haben: PowerShell und HTML/CSS. PowerShell habe ich nicht hochgeladen, da das nur ein kurzer Teil des Programmierens war und der größere Teil aus Dokumentation bestand. Schlussendlich war die letzte LP, neben SQL, diejenige, bei der ich mich am meisten aufs Programmieren konzentrieren konnte.
 
 Was ich auch mitnehme: immer Kopfhörer dabeihaben.
+(268 Wörter)
 
 
 
