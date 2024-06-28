@@ -123,11 +123,7 @@ Ich habe mir für diese Website viel vorgenommen, da ich denke, dass man mit vie
 
 # LP5-Reflexion
 
-
-
-
-
-
+Wie man direkt an meinen Abgaben auf GitHub erkennen kann, habe ich mich eher auf meine WebsiteLB konzentriert und nicht so viele Projekte nebenbei gemacht, oder diese nicht auf GitHub hochgeladen. Die etwas kleineren Projekte wie Button-Hover oder Solar System habe ich dann natürlich über diese LP geändert und verbessert. Für mich war es jedoch nicht so wichtig, dies direkt mitzuteilen (trotzdem werde ich es noch hochladen). Das Projekt "Solar System" habe ich auf Instagram gesehen; Personen, denen ich folge und die regelmäßig Code hochladen, haben mich inspiriert. Zu Beginn dieser LP habe ich mit Hilfe ihrer Videos das Sonnensystem unserer Planeten erstellt und es am Ende der LP (also am 28.6.2024) nochmals versucht, ohne Hilfe nachzustellen. Das ging deutlich besser als ich gedacht hatte und ich konnte sogar mehr Planeten erscheinen lassen als am Anfang der LP. (138 Wörter)
 
 
 
