@@ -126,6 +126,21 @@ Ich habe mir für diese Website viel vorgenommen, da ich denke, dass man mit vie
 Wie man direkt an meinen Abgaben auf GitHub erkennen kann, habe ich mich eher auf meine WebsiteLB konzentriert und nicht so viele Projekte nebenbei gemacht, oder diese nicht auf GitHub hochgeladen. Die etwas kleineren Projekte wie Button-Hover oder Solar System habe ich dann natürlich über diese LP geändert und verbessert. Für mich war es jedoch nicht so wichtig, dies direkt mitzuteilen (trotzdem werde ich es noch hochladen). Das Projekt "Solar System" habe ich auf Instagram gesehen; Personen, denen ich folge und die regelmäßig Code hochladen, haben mich inspiriert. Zu Beginn dieser LP habe ich mit Hilfe ihrer Videos das Sonnensystem unserer Planeten erstellt und es am Ende der LP (also am 28.6.2024) nochmals versucht, ohne Hilfe nachzustellen. Das ging deutlich besser als ich gedacht hatte und ich konnte sogar mehr Planeten erscheinen lassen als am Anfang der LP. (138 Wörter)
 
 
+# Lern-Atelier Reflexion
+
+Wenn ich auf diese Zeit zurückblicke, hat es mir wirklich Spaß gemacht, am LA teilzunehmen. Genau in diesen Zeiten konnte ich mich immer wieder frei fühlen, das zu programmieren, woran ich persönlich Spaß hatte. Anfangs musste man mit dem ganzen Hin und Her, den Repositories und dem Hochladen des Codes klarkommen, aber mit der Zeit hat man sich daran gewöhnt und es regelmäßig und besser gemacht.
+
+Rückblickend auf C#: Im Grunde genommen war das meine erste Programmiersprache, die ich versucht habe zu meistern, und es hat auch wirklich nicht schlecht geklappt. Doch bei weitem ist das nicht unbedingt meine Lieblingssprache zum Programmieren. Trotzdem hat das Coden, wie zum Beispiel ein Tic-Tac-Toe-Spiel, am Ende doch noch Spaß gemacht.
+
+In einem der Module wurden wir in Gruppen aufgeteilt, und jede Gruppe konnte sich ein Thema aussuchen und dazu etwas programmieren. Meine Gruppe und ich hatten das Thema Hypothek. Das war meiner Meinung nach eines der schwierigeren Themen, da es anspruchsvoller war, als ich anfangs gedacht hatte. Es lief jedoch insgesamt gut, und die Kommunikation mit meiner Gruppe war top.
+
+Die nächsten großen Programmierthemen waren dann SQL, was eher meinen Interessen entspricht. Datenbanken auszuwerten, Werte zu speichern, zu programmieren, zu löschen, hinzuzufügen und zu ändern war für mich ansprechender.
+
+Am Ende gab es zwei Programmiersprachen, die mir am meisten Spaß gemacht haben: PowerShell und HTML/CSS. PowerShell habe ich nicht hochgeladen, da das nur ein kurzer Teil des Programmierens war und der größere Teil aus Dokumentation bestand. Schlussendlich war die letzte LP, neben SQL, diejenige, bei der ich mich am meisten aufs Programmieren konzentrieren konnte.
+
+Was ich auch mitnehme: immer Kopfhörer dabeihaben.
+
+
 
 
 
