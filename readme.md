@@ -107,6 +107,10 @@ Heute habe ich wieder mit HTML begonnen und dabei direkt über zwei Arbeitspaket
 
 ![WebsiteAufzeichnungGIF](https://github.com/AmarNuhija/Lern-Periode-5/assets/142606791/902aebb3-f893-480b-b77b-d091dde33636)
 
+## Spezielle Features
+
+Ich habe mir für diese Website viel vorgenommen, da ich denke, dass man mit viel Einsatz eine gute Note erreichen kann. Die einzigen guten und auch sichtbaren Features, die ich im Video eingebaut habe, sind die Responsivität meiner Website und die Animationen der Logos auf der Kontaktseite. Ich finde, dass ich die Website gut auf verschiedene Bildschirmgrößen angepasst habe. Auf der Kontaktseite, die man im Video nicht sieht, werden drei Logos (Facebook, Twitter X und Instagram) angezeigt. Sobald man mit dem Zeiger darüber fährt, vergrößern sich die Logos. Das ist ein cooles Feature, das mich sehr inspiriert hat. Ein weiteres Feature, das nicht so schwer zu gestalten war, ist das „Email me“-Feature. Wenn man auf „Email me“ klickt, öffnet sich direkt meine E-Mail-Adresse und man kann mir eine Nachricht schreiben.
+
 
 ## Solar System (Nur Bilder)
 ![image](https://github.com/AmarNuhija/Lern-Periode-5/assets/142606791/64a64ee4-461d-451b-96f7-6a91c4029d54)
