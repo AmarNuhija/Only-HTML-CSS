@@ -1,0 +1,235 @@
+body {
+    background-color: #151515;
+}
+
+#sun {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0 0 1.5em white;
+    animation: spin-right  36.5s linear infinite;
+}
+
+@keyframes spin-right {
+    100% {transform: rotate(360deg);}
+}
+
+#earth {
+    background-color: aqua;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-top: -150px;
+    margin-left: -150px;
+    animation: spin-moon  3s linear infinite;
+    
+}
+
+#moon {
+    background-color: gray;
+    width:  15.5px;
+    height: 15.5px;
+    border-radius: 50%;
+    margin-top: -26px;
+    margin-left: -26px;
+}
+
+@keyframes spin-moon {
+    100% {transform: rotate(360deg);}
+}
+
+#sun2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0 0 3em white;
+    animation: spin-mercury   6s linear infinite;
+}
+
+@keyframes spin-mercury {
+    100% {transform: rotate(360deg);}
+}
+
+
+#mercury {
+    background-color: brown;
+    width: 23px;
+    height: 23px;
+    border-radius: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+}
+
+#sun3 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0 0 3em white;
+    animation: spin-venus 24.3s linear infinite;
+}
+
+@keyframes spin-venus {
+    100% {transform: rotate(360deg);}
+}
+
+#venus {
+    background-color: #5A72A0;
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    margin-top: -75px;
+    margin-left: -75px;
+}
+
+#sun4 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0 0 3em white;
+    animation: spin-mars 68.7s linear infinite;
+}
+
+#mars {
+    background-color: #FF6969;
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+    margin-top: -225px;
+    margin-left: -225px;
+}
+
+@keyframes spin-mars {
+    100% {transform: rotate(360deg);}
+}
+
+#sun5 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0 0 3em white;
+    animation: spin-jupiter 110s linear infinite;
+}
+
+#jupiter {
+    background-color: #AF8F6F;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-top: -325px;
+    margin-left: -325px;
+}
+
+@keyframes spin-jupiter {
+    100% {transform: rotate(360deg);}
+}
+
+#sun6 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0 0 3em white;
+    animation: spin-saturn 180s linear infinite;
+}
+
+#saturn {
+    background-color: #E7D4B5;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: -400px;
+    margin-left: -400px;
+}
+
+@keyframes spin-saturn {
+    100% {transform: rotate(360deg);}
+}
+
+#sun7 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0 0 3em white;
+    animation: spin-uranus 250s linear infinite;
+}
+
+#uranus {
+    background-color: #00215E;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    margin-top: -475px;
+    margin-left: -475px;
+}
+
+@keyframes spin-uranus {
+    100% {transform: rotate(360deg);}
+}
+
+#sun8 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: -50px;
+    margin-left: -50px;
+    border-radius: 50%;
+    background-color: yellow;
+    box-shadow: 0 0 3em white;
+    animation: spin-neptune 299s linear infinite;
+}
+
+#neptune {
+    background-color: #10439F;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    margin-top: -550px;
+    margin-left: -550px;
+}
+
+@keyframes spin-neptune {
+    100% {transform: rotate(360deg);}
+}
